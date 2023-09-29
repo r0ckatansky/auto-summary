@@ -1,3 +1,4 @@
+//
 import { App, Editor, Plugin, Notice, MarkdownView } from 'obsidian';
 
 interface MyPluginSettings {
